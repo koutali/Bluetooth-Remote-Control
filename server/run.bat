@@ -1,0 +1,1 @@
+start javaw -cp lib\bluecove.jar;build\classes\ remoteserver.RemoteServer

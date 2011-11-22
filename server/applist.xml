@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<applist total="6">
+	<app name="Explorer">
+		<cmd keys="2" name="1. Close window">
+			<key value="18"/>
+			<key value="115"/>
+		</cmd>
+		<cmd keys="2" name="2. Copy">
+			<key value="18"/>
+			<key value="115"/>
+		</cmd>
+		<cmd keys="2" name="3. Cut">
+			<key value="17"/>
+			<key value="67"/>
+		</cmd>
+		<cmd keys="2" name="4. Paste">
+			<key value="17"/>
+			<key value="86"/>
+		</cmd>
+	</app>
+	<app name="Firefox">
+		<cmd keys="1" name="1. Back">
+			<key value="8"/>
+		</cmd>
+		<cmd keys="1" name="2. Refresh">
+			<key value="116"/>
+		</cmd>
+		<cmd keys="2" name="3. Next Tab">
+			<key value="17"/>
+			<key value="9"/>
+		</cmd>
+		<cmd keys="2" name="4. Close Tab">
+			<key value="17"/>
+			<key value="87"/>
+		</cmd>
+		<cmd keys="2" name="5. New Tab">
+			<key value="17"/>
+			<key value="84"/>
+		</cmd>
+		<cmd keys="2" name="6. Home">
+			<key value="18"/>
+			<key value="36"/>
+		</cmd>
+		<cmd keys="2" name="7. History">
+			<key value="17"/>
+			<key value="72"/>
+		</cmd>
+	</app>
+	<app name="Windows Media Player">
+		<cmd keys="2" name="1. Play/Pause">
+			<key value="17"/>
+			<key value="80"/>
+		</cmd>
+		<cmd keys="2" name="2. Stop">
+			<key value="17"/>
+			<key value="83"/>
+		</cmd>
+		<cmd keys="2" name="3. Previous">
+			<key value="17"/>
+			<key value="66"/>
+		</cmd>
+		<cmd keys="2" name="4. Next">
+			<key value="17"/>
+			<key value="70"/>
+		</cmd>
+		<cmd keys="3" name="5. Fast Forward">
+			<key value="17"/>
+			<key value="16"/>
+			<key value="70"/>
+		</cmd>
+		<cmd keys="1" name="6. Volume Up">
+			<key value="121"/>
+		</cmd>
+		<cmd keys="1" name="7. Volume Down">
+			<key value="120"/>
+		</cmd>
+		<cmd keys="1" name="8. Mute">
+			<key value="119"/>
+		</cmd>
+	</app>
+	<app name="Internet Explorer">
+		<cmd keys="1" name="1. Back">
+			<key value="8"/>
+		</cmd>
+		<cmd keys="1" name="2. Refresh">
+			<key value="116"/>
+		</cmd>
+		<cmd keys="2" name="3. Next Tab">
+			<key value="17"/>
+			<key value="9"/>
+		</cmd>
+		<cmd keys="2" name="4. Close Tab">
+			<key value="17"/>
+			<key value="87"/>
+		</cmd>
+		<cmd keys="2" name="5. New Tab">
+			<key value="17"/>
+			<key value="84"/>
+		</cmd>
+		<cmd keys="2" name="6. Home">
+			<key value="18"/>
+			<key value="36"/>
+		</cmd>
+		<cmd keys="2" name="7. History">
+			<key value="17"/>
+			<key value="72"/>
+		</cmd>
+	</app>
+	<app name="Winamp">
+		<cmd keys="1" name="1. Play">
+			<key value="88"/>
+		</cmd>
+		<cmd keys="1" name="2. Pause">
+			<key value="67"/>
+		</cmd>
+		<cmd keys="1" name="3. Stop">
+			<key value="86"/>
+		</cmd>
+		<cmd keys="1" name="4. Previous">
+			<key value="90"/>
+		</cmd>
+		<cmd keys="1" name="5. Next">
+			<key value="66"/>
+		</cmd>
+		<cmd keys="1" name="6. Volume Up">
+			<key value="38"/>
+		</cmd>
+		<cmd keys="1" name="7. Volume down">
+			<key value="40"/>
+		</cmd>
+	</app>
+	<app name="Powerpoint">
+		<cmd keys="1" name="1. Next Slide">
+			<key value="40"/>
+		</cmd>
+		<cmd keys="1" name="2. Previous Slide">
+			<key value="38"/>
+		</cmd>
+		<cmd keys="1" name="3.End Show">
+			<key value="27"/>
+		</cmd>
+	</app>
+	
+</applist>
